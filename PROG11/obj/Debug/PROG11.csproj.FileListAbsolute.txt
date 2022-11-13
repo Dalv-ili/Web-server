@@ -1,0 +1,8 @@
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\obj\Debug\PROG11.csproj.AssemblyReference.cache
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\obj\Debug\PROG11.csproj.SuggestedBindingRedirects.cache
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\obj\Debug\PROG11.csproj.CoreCompileInputs.cache
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\bin\Debug\PROG11.exe.config
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\bin\Debug\PROG11.exe
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\bin\Debug\PROG11.pdb
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\obj\Debug\PROG11.exe
+D:\C#\ITOGGGGGGGGG\PROG11\PROG11\obj\Debug\PROG11.pdb

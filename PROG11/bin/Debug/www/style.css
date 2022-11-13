@@ -1,0 +1,17 @@
+﻿p {
+    color: green;
+}
+
+h1 {
+    color: orangered;
+}
+
+input [type=text] {
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+input [type=button] {
+    background-color: aqua;
+    border-radius: 15px;
+}
